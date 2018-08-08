@@ -1,0 +1,11 @@
+/.idea/
+/logs/
+/xbet-dao/target/
+/xbet-dao/xbet-dao.iml
+/xbet-model/target/
+/xbet-model/xbet-model.iml
+/xbet-service/target/
+/xbet-service/xbet-service.iml
+/xbet-web/target/
+/xbet-web/.idea/
+/xbet-web/xbet-web.iml
